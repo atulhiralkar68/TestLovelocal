@@ -8,7 +8,6 @@ package javaProgramPractice;
 import java.util.Scanner;
 
 /**
- *
  * @author Hp
  */
 public class FactorialNumber {
