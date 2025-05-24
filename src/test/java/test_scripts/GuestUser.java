@@ -35,7 +35,7 @@ public void guestUser() throws InterruptedException, Throwable
         homePage.choseAddress();
         //homePage.clearCartContinue();
         //homePage.ClickOnSeeAll_discoverShopsNearYou();
-        homePage.clickOnSeeAll_ShopByCategory();
+        //homePage.clickOnSeeAll_ShopByCategory();
        
         // Initialize SoftAssert
         SoftAssert softAssert = new SoftAssert();
