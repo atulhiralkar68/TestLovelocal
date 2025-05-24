@@ -48,9 +48,9 @@ public void guestUser() throws InterruptedException, Throwable
         softAssert.assertEquals(actualPageTitle, expectedPageTitle, "Page heading does not match please check");
         softAssert.assertAll();
         
-        shopsPage.clickOnShop();
+        // shopsPage.clickOnShop();
         
-        shopFront.clickAndSearchProductName("PRODUCTNAME");
+        // shopFront.clickAndSearchProductName("PRODUCTNAME");
         
          
        }

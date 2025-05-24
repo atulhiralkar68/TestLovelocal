@@ -30,7 +30,7 @@ public class ShopsPage extends UtilityMethods{
         PageFactory.initElements(driver, this);
     }
 
-    @FindBy(xpath="//h4[@title=\"Atul Hiralkar Fruits And Vegetables Supermarket\"]")
+    @FindBy(xpath="//h4[@title=\"Sayyad Super Market\"]")
     WebElement clickOnShop;
 
     @FindBy(xpath = "//h4[@class='r__store_title']")
